@@ -10,13 +10,14 @@ background: yellow;
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .list {
     padding: 40px;
     border: 1px solid grey;
     max-width: 800px;
+    margin: 0 auto;
 }
 
 
