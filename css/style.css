@@ -1,0 +1,29 @@
+body {
+  background: white;
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+}
+
+h1 {
+color: purple;
+background: yellow;
+}
+
+img {
+    max-width: 100%;
+}
+
+.list {
+    padding: 40px;
+    border: 1px solid grey;
+    max-width: 800px;
+}
+
+
+.important {    
+    text-align: center;
+    font-weight: 400;
+    text-decoration: underline;
+    font-size: 2em;
+    color: red;
+}
